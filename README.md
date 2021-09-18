@@ -2,6 +2,8 @@
 
 You have to using node.js to run it.
 
+## Usage
+
 JS1. Write the shortest possible way to reverse an string for example “UNIVERSITY” >> "YTISREVINU" *
 
 ```bash
