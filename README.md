@@ -1,4 +1,6 @@
-# bank-thana
+## How to run file.
+
+You have to using node.js to run it.
 
 JS1. Write the shortest possible way to reverse an string for example “UNIVERSITY” >> "YTISREVINU" *
 
